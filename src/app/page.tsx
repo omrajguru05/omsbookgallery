@@ -66,7 +66,7 @@ export default function Home() {
             Discover a collection of profound stories and transformative ideas crafted to inspire and connect. Each book is a gateway to a journey where words meet emotions, and imagination meets reality. Whether you're seeking knowledge, adventure, or solace, you'll find something extraordinary here.
             </p>
             <Link href="/books" className="inline-flex items-center bg-foreground text-background px-6 py-3 rounded-full hover:bg-foreground/90 transition">
-            📚 Discover My Collection on Amazon<ChevronRight className="ml-2" />
+            Discover My Collection on Amazon<ChevronRight className="ml-2" />
             </Link>
           </motion.div>
         </div>
